@@ -252,31 +252,12 @@ in your browser.
 
 ## 📸 Screenshots
 
-### Upload PDF
+<img width="1366" height="768" alt="Screenshot (432)" src="https://github.com/user-attachments/assets/2dc25f57-7ccb-4fd1-8bd6-d3e2aa584fee" />
 
-*Add screenshot here*
+<img width="1366" height="768" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/dc722e8d-ac37-43dd-b05d-372a7d829a62" />
+<img width="1366" height="768" alt="Screenshot (431)" src="https://github.com/user-attachments/assets/0cf03ff9-f79e-4e00-abb9-a249fbe7cc69" />
+<img width="1366" height="768" alt="Screenshot (433)" src="https://github.com/user-attachments/assets/fdf4d2b7-b07b-4c91-a10a-45f00428b678" />
 
-```text
-screenshots/upload.png
-```
-
-### Chat Interface
-
-*Add screenshot here*
-
-```text
-screenshots/chat.png
-```
-
-### Source Citations
-
-*Add screenshot here*
-
-```text
-screenshots/sources.png
-```
-
----
 
 ## 🔍 Key Learning Outcomes
 

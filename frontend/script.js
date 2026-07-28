@@ -1,4 +1,4 @@
-const BACKEND_URL = "http://localhost:8000"
+const BACKEND_URL = "http://pdf-qna-chatbot-env.eba-rx8zw3f4.ap-south-1.elasticbeanstalk.com/"
 
 const pdfInput = document.getElementById("pdfInput")
 const uploadBtn = document.getElementById("uploadBtn")
